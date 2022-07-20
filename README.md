@@ -1,8 +1,8 @@
-## ActiveRecord Boilerplate
+## Active Record boilerplate
 
-This is a starting point for the Activerecord Basics lecture using sqlite. During the lecture, you need to:
+This is a starting point for the Active Record Basics & Advanced lectures. During these two lectures, you need to:
 
-- Clone The project
+- Clone the project
 - Run `bundle install`
 - Explain `rake -T`
 - Explain `config/database.yml`

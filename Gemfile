@@ -1,10 +1,12 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'pry'
-gem 'rest-client'
-gem 'faker'
-gem 'rspec'
-gem 'rake'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'rubocop'
+ruby "3.1.2"
+
+gem "activerecord"
+gem "faker"
+gem "pry"
+gem "rake"
+gem "rest-client"
+gem "rspec"
+gem "rubocop"
+gem "sqlite3"
